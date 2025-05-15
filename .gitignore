@@ -1,0 +1,23 @@
+# pdm
+.pdm-python
+
+
+# Python
+.venv
+.tmp*
+
+# vscode
+.vscode
+
+# Non-code files
+books
+docs
+examples
+guide
+
+
+# Data
+data
+results
+
+__pycache__
